@@ -1,0 +1,1 @@
+{"schedule":{"type":"SIMPLE","name":"oi","description":"caradeboi","id":null,"project":"automated-diagnostics","timeZone":"PST","crontabString":"0 00 00 ? * * *"}}
